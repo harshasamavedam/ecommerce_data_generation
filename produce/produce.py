@@ -14,7 +14,7 @@ def production():
         "checkout_btn_clicked",
         "payment_login_redirect",
         "checkout_started",
-        "purcahse",
+        "purchase",
     ]
     print(events_after_50)
     no_of_users = int(input("Enter number of users to generate the data: "))
